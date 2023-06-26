@@ -99,7 +99,7 @@ In the formulae above:
     <li>The number of months they plan to take to repay the bond. e.g. 120
     </ul>
 Bond repayment formula:
-The amount that a person will have to be repaid on a home loan each month is calculated as follows: 𝑟𝑒𝑝𝑎𝑦𝑚𝑒𝑛𝑡 = 𝑖 × 𝑃 1− (1+𝑖) −𝑛
+The amount that a person will have to be repaid on a home loan each month is calculated as follows: 𝑟𝑒𝑝𝑎𝑦𝑚𝑒𝑛𝑡 = 𝑖 × 𝑃 divided by (1− (1+𝑖)) to the power of −𝑛.
 The Python equivalent is slightly different: repayment = (i * P)/(1 - (1 + i)**(-n))
 
 In the formula above:
