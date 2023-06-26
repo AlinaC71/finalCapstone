@@ -80,8 +80,9 @@ In the formulae above:
 <li>‘P’ is the amount that the user deposits.
 <li>‘t’ is the number of years that the money is being invested.
 <li>‘A’ is the total amount once the interest has been applied.
-<li>Print the answer.</ul/>
-
+<li>Print the answer.</ul>
+<br/><br/>
+<br/><br/>
 4. If the user selects ‘bond’, do the following:
 <ul>
 <li>Ask the user to input:
