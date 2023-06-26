@@ -1,7 +1,8 @@
 # finalCapstone
 
 This is a folder containing two Capstone project files for the HyperionDev DfE Data Science course.
-
+<br/><br/>
+<br/><br/>
 **1. Semantic Similarity (NLP) project** ( files nlp_1.pdf, nlp_2.pdf, watch_next.py and movies.txt files)
   Natural Language Processing (NLP) is currently one of the largest fields of research in artificial intelligence (AI).
 <br/><br/>
@@ -16,7 +17,7 @@ This is known as machine learning and is a massive field of research. Today it h
 The NLP Capstone project tasks were divided into two parts: research  and practical tasks.
 
 **Research tasks: nlp_1.pdf, nlp_2.pdf**
-
+<br/><br/>
 The file nlp_1.pdf categorises which type of NLP application applies for each of the following use-cases:
 - A model that allocates which mail folder an email should be sent to (work, friends, promotions, important), like Gmail’s inbox tabs.
 - A model that helps decide what grade to award to an essay question (This can be used by a university professor who grades a lot of classes
@@ -30,19 +31,19 @@ The second task required me to read up on any innovative technology using NLP (b
 **Practical task: watch_next.py and movies.txt**
 
 The practical NLP task had the following requirements:
-● Read in the movies.txt file. Each separate line is a description of a different movie.
-● Your task is to create a function to return which movies a user would watch next if they have watched Planet Hulk with the description “Will he save their world or destroy it? When the Hulk becomes too dangerous for the Earth, the Illuminati trick Hulk into a shuttle and launch him into space to a planet where the Hulk can live in peace. Unfortunately, Hulk lands on the planet Sakaar where he is sold into slavery and trained as a gladiator.”
+-Read in the movies.txt file. Each separate line is a description of a different movie.
+-Your task is to create a function to return which movies a user would watch next if they have watched Planet Hulk with the description “Will he save their world or destroy it? When the Hulk becomes too dangerous for the Earth, the Illuminati trick Hulk into a shuttle and launch him into space to a planet where the Hulk can live in peace. Unfortunately, Hulk lands on the planet Sakaar where he is sold into slavery and trained as a gladiator.”
 
 To fulfill the task requirements I used spaCy, the free, open-source library for NLP in Python written in Cython. 
 spaCy is designed to make it easy to build systems for information extraction or general-purpose natural language processing. 
 SpaCy is able to compare two objects and make a prediction of how similar they are. The similarity is shown as a floating decimal from 0
 to 1, where 0 indicates ‘most dissimilar’ and the strength of the similarity increases all the way up to 1. 
 
-At the top of the file include the line: import math
+
 
 2.  Variables and Control Structures project: finance_calculators.py
 
-In this Capstone Project I have created a program that allows the user to access two different financial calculators: an investment calculator and a home loan repayment calculator.
+In this Capstone Project I have created a program that allows the user to access two different financial calculators: an investment calculator and a home loan repayment calculator (I imported and used the math module for the calculations)
 
 The task required me to write the code that will do the following: 
 
