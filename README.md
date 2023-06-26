@@ -68,16 +68,17 @@ whether or not they typed “simple” or “compound”, output the appropriate
 at the specified interest rate. 
 </ul>
 Interest formula:
-  The total amount when simple interest is applied : 𝐴 = 𝑃(1 + 𝑟 × 𝑡)
-  The Python equivalent is very similar: A = P*(1 + r*t)
-  The total amount when compound interest is applied:𝐴 = 𝑃((1 + 𝑟) to the power of 𝑡)
-  The Python equivalent is slightly different: A = P * math.pow((1+r),t)
+  The total amount when simple interest is applied : 𝐴 = 𝑃(1 + 𝑟 × 𝑡)<br>
+  The Python equivalent is very similar: A = P*(1 + r*t)<br>
+  The total amount when compound interest is applied:𝐴 = 𝑃((1 + 𝑟) to the power of 𝑡)<br>
+  The Python equivalent is slightly different: A = P * math.pow((1+r),t)<br>
 In the formulae above:
-   -‘r’ is the interest entered above divided by 100, e.g. if 8% is entered, then r is 0.08.
-   -‘P’ is the amount that the user deposits.
-   -‘t’ is the number of years that the money is being invested.
-   -‘A’ is the total amount once the interest has been applied.
-   -Print the answer.
+<ul>
+<li>‘r’ is the interest entered above divided by 100, e.g. if 8% is entered, then r is 0.08.
+<li>‘P’ is the amount that the user deposits.
+<li>‘t’ is the number of years that the money is being invested.
+<li>‘A’ is the total amount once the interest has been applied.
+<li>Print the answer.
 
 5. If the user selects ‘bond’, do the following:
    -Ask the user to input:
