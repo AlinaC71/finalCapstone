@@ -15,9 +15,10 @@ This is known as machine learning and is a massive field of research. Today it h
 (items to buy, films to watch), in identifying images, helping driverless cars to act according to their environment etc.
 
 The NLP Capstone project tasks were divided into two parts: research  and practical tasks.
-
-**Research tasks: nlp_1.pdf, nlp_2.pdf**
 <br/><br/>
+<br/><br/>
+**Research tasks: nlp_1.pdf, nlp_2.pdf**
+
 The file nlp_1.pdf categorises which type of NLP application applies for each of the following use-cases:
 - A model that allocates which mail folder an email should be sent to (work, friends, promotions, important), like Gmail’s inbox tabs.
 - A model that helps decide what grade to award to an essay question (This can be used by a university professor who grades a lot of classes
@@ -26,8 +27,8 @@ or essay competitions.
 use the patients’ answers to provide probable diagnoses for the doctor to weigh and make decisions.
 
 The second task required me to read up on any innovative technology using NLP (by companies such as Google or IBM, for instance) and write a brief summary about the technology, what it achieves/does, and an overview of how it works (250 -500 words) in a file called nlp_2.pdf
-
-
+<br/><br/>
+<br/><br/>
 **Practical task: watch_next.py and movies.txt**
 
 The practical NLP task had the following requirements:
