@@ -16,8 +16,8 @@ This is known as machine learning and is a massive field of research. Today it h
 (items to buy, films to watch), in identifying images, helping driverless cars to act according to their environment etc.
 
 The NLP Capstone project tasks were divided into two parts: research  and practical tasks.
-<br/><br/>
-<br/><br/>
+<br><br>
+<br><br>
 **Research tasks: nlp_1.pdf, nlp_2.pdf**
 
 The file nlp_1.pdf categorises which type of NLP application applies for each of the following use-cases:
