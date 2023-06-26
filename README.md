@@ -3,10 +3,13 @@
 This is a folder containing two Capstone project files for the HyperionDev DfE Data Science course.
 
 **1. Semantic Similarity (NLP) project** ( files nlp_1.pdf, nlp_2.pdf, watch_next.py and movies.txt files)
-  Natural Language Processing (NLP) is s currently one of the largest fields of research in artificial intelligence (AI).
+  Natural Language Processing (NLP) is currently one of the largest fields of research in artificial intelligence (AI).
 
 IMAGE t38 conversion
+
 ![(https://miro.medium.com/v2/resize:fit:828/format:webp/1*_TV_ZLIhZpmX7HpMODwmiA.png)]
+https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_TV_ZLIhZpmX7HpMODwmiA.png
+
 
 NLP is a big part of AI because a large portion of NLP has to do with training computers or AI programs. These AI programs identify patterns and use probabilities to make informed decisions.
 This is known as machine learning and is a massive field of research. Today it has many applications: in recommendation engines 
