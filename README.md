@@ -2,11 +2,11 @@
 
 This is a folder containing two Capstone project files for the HyperionDev DfE Data Science course.
 
-1. Semantic Similarity (NLP) project ( files nlp_1.pdf, nlp_2.pdf, watch_next.py and movies.txt files)
+**1. Semantic Similarity (NLP) project** ( files nlp_1.pdf, nlp_2.pdf, watch_next.py and movies.txt files)
   Natural Language Processing (NLP) is s currently one of the largest fields of research in artificial intelligence (AI).
 
-IMAGE t38 conversica
-
+IMAGE t38 conversion
+(https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_TV_ZLIhZpmX7HpMODwmiA.png)
 
 NLP is a big part of AI because a large portion of NLP has to do with training computers or AI programs. These AI programs identify patterns and use probabilities to make informed decisions.
 This is known as machine learning and is a massive field of research. Today it has many applications: in recommendation engines 
@@ -14,7 +14,7 @@ This is known as machine learning and is a massive field of research. Today it h
 
 The NLP Capstone project tasks were divided into two parts: research  and practical tasks.
 
-Research tasks: nlp_1.pdf, nlp_2.pdf
+**Research tasks: nlp_1.pdf, nlp_2.pdf**
 
 The file nlp_1.pdf categorises which type of NLP application applies for each of the following use-cases:
 a. A model that allocates which mail folder an email should be sent to (work, friends, promotions, important), like Gmail’s inbox tabs.
@@ -26,7 +26,7 @@ use the patients’ answers to provide probable diagnoses for the doctor to weig
 The second task required me to read up on any innovative technology using NLP (by companies such as Google or IBM, for instance) and write a brief summary about the technology, what it achieves/does, and an overview of how it works (250 -500 words) in a file called nlp_2.pdf
 
 
-Practical task: watch_next.py and movies.txt
+**Practical task: watch_next.py and movies.txt**
 
 The practical NLP task had the following requirements:
 ● Read in the movies.txt file. Each separate line is a description of a different movie.
