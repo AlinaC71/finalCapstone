@@ -6,9 +6,8 @@ This is a folder containing two Capstone project files for the HyperionDev DfE D
   Natural Language Processing (NLP) is currently one of the largest fields of research in artificial intelligence (AI).
 <br/><br/>
 ![NLP Image source: Conversica ](https://miro.medium.com/v2/resize:fit:828/format:webp/1*_TV_ZLIhZpmX7HpMODwmiA.png)
-<br/><br/>
-
-
+<br/>
+<br/>
 
 NLP is a big part of AI because a large portion of NLP has to do with training computers or AI programs. These AI programs identify patterns and use probabilities to make informed decisions.
 This is known as machine learning and is a massive field of research. Today it has many applications: in recommendation engines 
