@@ -3,7 +3,7 @@
 This is a folder containing two Capstone project files for the HyperionDev DfE Data Science course.
 <br/><br/>
 <br/><br/>
-##**1. Semantic Similarity (NLP) project** ( files nlp_1.pdf, nlp_2.pdf, watch_next.py and movies.txt files)
+##1. Semantic Similarity (NLP) project ( files nlp_1.pdf, nlp_2.pdf, watch_next.py and movies.txt files)
 
 Natural Language Processing (NLP) is currently one of the largest fields of research in artificial intelligence (AI).
 <br/><br/>
@@ -43,7 +43,7 @@ to 1, where 0 indicates ‘most dissimilar’ and the strength of the similarity
 
 
 
-##**2.  Variables and Control Structures project: finance_calculators.py**
+##2.  Variables and Control Structures project: finance_calculators.py
 
 In this Capstone Project I have created a program that allows the user to access two different financial calculators: an investment calculator and a home loan repayment calculator (I imported and used the math module for the calculations)
 
