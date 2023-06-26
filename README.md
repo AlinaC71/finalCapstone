@@ -8,10 +8,12 @@ Table of Contents
                   <ul>
                         <li> Research-based task nlp_1.pdf, nlp_2.pdf
                         <li> Practical task: watch_next.py and movies.txt
+                        <li> Usage
                    </ul>     
                       2. Variables and Control Structures project: 
                   <ul>
                         <li> Practical task: finance_calculators.py
+                        <li> Usage
 <br/><br/>
 <br/><br/>
 
@@ -57,6 +59,24 @@ To fulfill the task requirements I used spaCy, the free, open-source library for
 spaCy is designed to make it easy to build systems for information extraction or general-purpose natural language processing. 
 SpaCy is able to compare two objects and make a prediction of how similar they are. The similarity is shown as a floating decimal from 0
 to 1, where 0 indicates ‘most dissimilar’ and the strength of the similarity increases all the way up to 1. 
+
+**Usage**
+In order to use the semantic.py and watch_next.py programsyou need to have the SpaCy library installed as well as the specific language models. Please follow the instructions to add SpaCy and english language models.
+
+Type the following commands in the command line to install spaCy:
+
+pip3 install spacy
+
+To check spacy is installed correctly type "import spacy" the following into the Python console :
+If you receive no error, this means that spaCy was installed correctly!
+
+SpaCy uses language models to process different languages. SpaCy's models can be installed as Python packages, meaning that they are a component of your application, just like any other module. Models can be installed from a download URL or a local directory, manually or via pip. Their data can be located anywhere on your file system. To download the English "small" model, type the command below in your terminal.
+
+python -m spacy download en_core_web_sm
+
+Please also install a more advanced language model 'en_core_web_md' which is able to find similarities and differences better than the previous ‘en_core_web_sm’ model. This model can be installed typing the line below in your command prompt (terminal):
+
+python -m spacy download en_core_web_md
 <br/><br/>
 <br/><br/>
 ## 2.  Variables and Control Structures project: finance_calculators.py
@@ -127,5 +147,15 @@ In the formula above:
     Calculate how much money the user will have to repay each month and output the answer.
 
 ![fin3](https://github.com/AlinaC71/finalCapstone/assets/107502531/0030117b-7ed2-4f38-90f5-26a16d78d2a2)
+
+**Usage**
+
+In order to use the finance_calculator.py you need the math module to perform the mathematical calculation for interest and bond. 
+math is a built-in module in the Python 3 standard library that provides standard mathematical constants and functions, used to perform various mathematical calculations, such as numeric, trigonometric, logarithmic, and exponential calculations.
+The program imports the module in the first line of code using the syntax "import math" 
+
+
+
+
 
 
