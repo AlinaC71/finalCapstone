@@ -72,6 +72,7 @@ Interest formula:
   The Python equivalent is very similar: A = P*(1 + r*t)<br>
   The total amount when compound interest is applied:𝐴 = 𝑃((1 + 𝑟) to the power of 𝑡)<br>
   The Python equivalent is slightly different: A = P * math.pow((1+r),t)<br>
+  
 In the formulae above:
 <ul>
 <li>‘r’ is the interest entered above divided by 100, e.g. if 8% is entered, then r is 0.08.
@@ -80,20 +81,24 @@ In the formulae above:
 <li>‘A’ is the total amount once the interest has been applied.
 <li>Print the answer.
 
-5. If the user selects ‘bond’, do the following:
-   -Ask the user to input:
-   -The present value of the house. e.g. 100000
-   -The interest rate. e.g. 7
-   -The number of months they plan to take to repay the bond. e.g. 120
+4. If the user selects ‘bond’, do the following:
+<ul>
+<li>Ask the user to input:
+<li>The present value of the house. e.g. 100000
+<li>The interest rate. e.g. 7
+<li>The number of months they plan to take to repay the bond. e.g. 120
+  
 Bond repayment formula:
 The amount that a person will have to be repaid on a home loan each month is calculated as follows: 𝑟𝑒𝑝𝑎𝑦𝑚𝑒𝑛𝑡 = 𝑖 × 𝑃 1− (1+𝑖) −𝑛
 The Python equivalent is slightly different: repayment = (i * P)/(1 - (1 + i)**(-n))
+
 In the formula above:
-   -‘P’ is the present value of the house.
-   -‘i’ is the monthly interest rate, calculated by dividing the annual interest rate by 12. Remember to divide the interest entered by
-the user by 100 e.g. (8 / 100) before dividing by 12.
-   -‘n’ is the number of months over which the bond will be repaid.
-   -Calculate how much money the user will have to repay each month and output the answer.
+<ul>
+<li>‘P’ is the present value of the house.
+<li>‘i’ is the monthly interest rate, calculated by dividing the annual interest rate by 12. Remember to divide the interest entered by
+<li>the user by 100 e.g. (8 / 100) before dividing by 12.
+<li>‘n’ is the number of months over which the bond will be repaid.
+Calculate how much money the user will have to repay each month and output the answer.
 
 
 
