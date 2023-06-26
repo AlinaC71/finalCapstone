@@ -1,8 +1,24 @@
 # finalCapstone
-
 This is a folder containing two Capstone project files for the HyperionDev DfE Data Science course.
+
+Table of Contents
+      <li>Introduction
+            <li>Projects
+                  <ol>1. Semantic Similarity (NLP) project
+                  <ul>
+                        <li> Research-based task nlp_1.pdf, nlp_2.pdf
+                        <li> Practical task: watch_next.py and movies.txt
+                   </ul>     
+                      2. Variables and Control Structures project: 
+                  <ul>
+                        <li> Practical task: finance_calculators.py
 <br/><br/>
 <br/><br/>
+
+## Introduction
+
+This folder contains Capstone projects completed during the HyperionDev Data Science course. The Semantic Similarity (NLP) project section illustrates an understanding of Natural Language Processing (NLP) and its applications. It is divided into two sections: a research-based task and a practical task. The first part is descriptive and focuses on natural language processing applications, such as text classification and sentiment analysis. The second one consists of watch_next.py Python file that focuses on building a system that can recommend what to watch next based on the word vector similarity of the description of the movies.  
+
 ## 1. Semantic Similarity (NLP) project ( files nlp_1.pdf, nlp_2.pdf, watch_next.py and movies.txt files)
 
 Natural Language Processing (NLP) is currently one of the largest fields of research in artificial intelligence (AI).
@@ -18,7 +34,7 @@ This is known as machine learning and is a massive field of research. Today it h
 The NLP Capstone project tasks were divided into two parts: research  and practical tasks.
 <br><br>
 <br><br>
-**Research tasks: nlp_1.pdf, nlp_2.pdf**
+**Research-based tasks: nlp_1.pdf, nlp_2.pdf**
 
 The file nlp_1.pdf categorises which type of NLP application applies for each of the following use-cases:
 - A model that allocates which mail folder an email should be sent to (work, friends, promotions, important), like Gmail’s inbox tabs.
