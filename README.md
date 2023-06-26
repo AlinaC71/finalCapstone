@@ -4,11 +4,9 @@ This is a folder containing two Capstone project files for the HyperionDev DfE D
 
 **1. Semantic Similarity (NLP) project** ( files nlp_1.pdf, nlp_2.pdf, watch_next.py and movies.txt files)
   Natural Language Processing (NLP) is currently one of the largest fields of research in artificial intelligence (AI).
-
-  
-
+<br/><br/>
 ![NLP Image source: Conversica ](https://miro.medium.com/v2/resize:fit:828/format:webp/1*_TV_ZLIhZpmX7HpMODwmiA.png)
-
+<br/><br/>
 
 
 
