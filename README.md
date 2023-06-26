@@ -33,8 +33,9 @@ The second task required me to read up on any innovative technology using NLP (b
 **Practical task: watch_next.py and movies.txt**
 
 The practical NLP task had the following requirements:
--Read in the movies.txt file. Each separate line is a description of a different movie.
--Your task is to create a function to return which movies a user would watch next if they have watched Planet Hulk with the description “Will he save their world or destroy it? When the Hulk becomes too dangerous for the Earth, the Illuminati trick Hulk into a shuttle and launch him into space to a planet where the Hulk can live in peace. Unfortunately, Hulk lands on the planet Sakaar where he is sold into slavery and trained as a gladiator.”
+<ul>
+<li>Read in the movies.txt file. Each separate line is a description of a different movie.
+<li>Your task is to create a function to return which movies a user would watch next if they have watched Planet Hulk with the description “Will he save their world or destroy it? When the Hulk becomes too dangerous for the Earth, the Illuminati trick Hulk into a shuttle and launch him into space to a planet where the Hulk can live in peace. Unfortunately, Hulk lands on the planet Sakaar where he is sold into slavery and trained as a gladiator.”
 
 To fulfill the task requirements I used spaCy, the free, open-source library for NLP in Python written in Cython. 
 spaCy is designed to make it easy to build systems for information extraction or general-purpose natural language processing. 
@@ -79,7 +80,7 @@ In the formulae above:
 <li>‘P’ is the amount that the user deposits.
 <li>‘t’ is the number of years that the money is being invested.
 <li>‘A’ is the total amount once the interest has been applied.
-<li>Print the answer.<br>
+<li>Print the answer.</ul/>
 
 4. If the user selects ‘bond’, do the following:
 <ul>
