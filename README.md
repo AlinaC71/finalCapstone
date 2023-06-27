@@ -61,6 +61,7 @@ SpaCy is able to compare two objects and make a prediction of how similar they a
 to 1, where 0 indicates ‘most dissimilar’ and the strength of the similarity increases all the way up to 1. 
 
 **Usage**
+
 In order to use the semantic.py and watch_next.py programsyou need to have the SpaCy library installed as well as the specific language models. Please follow the instructions to add SpaCy and english language models.
 
 Type the following commands in the command line to install spaCy:
